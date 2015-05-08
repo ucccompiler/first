@@ -1,6 +1,5 @@
 # first
-public class FirstGethUB()
-{
-  Yo.soy.David();
-}
 
+Contributors:
+  Ahmed Youssef
+  David D'Auria
